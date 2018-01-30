@@ -44,12 +44,14 @@ Rotten Tomatoes URL
 Example for do what it says
 
 node liri.js do-what-it-says
+
 These are the npm packages I used and are needed to run the app
 
 fs package in node
 twitter
 spotify
 request
+
 to install these npm packages run these commands one at a time.
 
 npm install twitter
