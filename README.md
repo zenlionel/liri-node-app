@@ -43,7 +43,7 @@ preview link of the song from spotify
 album that the song is a part of
 
 
-Example for movie
+For movie
 ------------------
 node liri.js movie-this '<movie name here>'
 this would output the following information to the terminal:
