@@ -4,6 +4,7 @@ Introduction
 I created a node.js app called LIRI. LIRI is like SIRI (from an iphone).
 
 It must be run in the command line.
+For the Twitter messages, please setup a keys.js file with your 
 
 LIRI is a Language Interpretation and Recognition Interface.
 
